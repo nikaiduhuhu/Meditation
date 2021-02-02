@@ -1,5 +1,5 @@
 # Meditation
-https://nikaiduhuhu.github.io/Meditation/
+https://root4kaido.github.io/Meditation/
 
 ## I tried the following items
 - HTML
